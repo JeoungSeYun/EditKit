@@ -10,6 +10,9 @@
 
 필요: Windows 10/11 64비트, Premiere Pro 2022 이상, NVIDIA 그래픽카드 권장.
 
+## 사용법
+자세한 사용법은 **[사용 가이드](GUIDE.md)** — 설치, 자막 만들기·고치기, 화자 나누기, 모션 자막·템플릿, 컷, 자료, 단축키, 문제 해결.
+
 ## 라이선스
 EditKit은 무료(비상업적)로 배포돼요. 함께 쓰는 모델: Whisper (MIT), MMS 정렬 모델 (CC BY-NC 4.0), ERes2NetV2 (Apache-2.0).
 This project uses the universal romanizer software 'uroman' written by Ulf Hermjakob, USC Information Sciences Institute (2015-2020).
